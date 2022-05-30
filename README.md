@@ -1,8 +1,13 @@
 # Cloud-Design-Patterns
 
-## Backend For Frontends
+## Table of Contents
 
-Deciding to use the same APIs for all your Front-ends? DON'T !!!!
+[1. Backend For Frontends](#1-Backend-For-Frontends)
+
+
+## 1. Backend For Frontends
+
+Planning to use the same APIs for all your Front-ends? DON'T !!!!
 
 At some point in time, all your interfaces will
 
