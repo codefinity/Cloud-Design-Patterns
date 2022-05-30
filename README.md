@@ -1,6 +1,6 @@
 # Cloud-Design-Patterns
 
-This is the repository of all my LinkedIn Post on Cloud Design Patterns
+**This is the repository of all my LinkedIn Post on Cloud Design Patterns**
 
 You can follow me on: https://www.linkedin.com/in/nikhilpat/
 
