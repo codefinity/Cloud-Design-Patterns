@@ -29,4 +29,4 @@ Solution: Create a separate backend for each interface. It gives space for the f
 
 Ref: https://docs.microsoft.com/en-us/azure/architecture/patterns/backends-for-frontends
 
-<img src="/BackendForFrontEnd/CloudDesignPatterns-BFF.png" width="600">
+<img src="/BackendForFrontEnd/CloudDesignPatterns-BFF.png" width="800">
